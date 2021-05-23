@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!--20190107 聊天室 9.0會遇到 not permitted by network security policy android  --><!--https://www.jianshu.com/p/57047a84e559  -->
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>

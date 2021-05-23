@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AccessTest</string>
+    <string name="loading">Loading…</string>
+    <string name="footer">Footer</string>
+    <string name="staff">STAFF</string>
+    <string name="error_query_data">Query fail!!!</string>
+</resources>
